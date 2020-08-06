@@ -20,6 +20,7 @@ body{
     height: 17px;
     width: 17px;
     border: 1.5px solid rgb(224, 0, 138);
+    border-radius: 50px;
 }
 .checkstyle{
     margin: 1px 1em 0 0;
