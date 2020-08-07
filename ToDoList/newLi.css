@@ -67,7 +67,7 @@ input[type="checkbox"]:checked + .line{
     transition: .25s;
 }
 .control input[type="text"]:focus{
-    width: 280px;
+    width: 245px;
     border-color: #1abc9c;
 }
 .control input[type="text"]::placeholder{
