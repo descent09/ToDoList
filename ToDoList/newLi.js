@@ -15,7 +15,7 @@ function createLi(){
     listenDelete(deleteBtn);
 
     ulk.appendChild(li).append(check,span,deleteBtn);
-
+    input.value = "";
 }
 function listenDelete(elem){
     elem.addEventListener("click", ()=>{
